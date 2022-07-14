@@ -1,4 +1,4 @@
-#Functions:
+# Functions:
 
 STRING FUNCTIONS: 
 NOTE:- STRINGS ARE IMUTABLE (It never changes).
