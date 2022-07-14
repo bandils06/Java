@@ -1,6 +1,7 @@
 # Functions:
 
-STRING FUNCTIONS: 
+# STRING FUNCTIONS: 
+
 NOTE:- STRINGS ARE IMUTABLE (It never changes).
 	 The original values of string 's1' & 's2' are remains same even after these operations.
 
